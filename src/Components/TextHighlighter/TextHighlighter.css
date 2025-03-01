@@ -1,0 +1,31 @@
+
+.highlight {
+    background-color: yellow; /* Normal highlights */
+  }
+  
+  .active {
+    background-color: orange; /* Active match */
+    border: 2px solid red;
+    padding: 2px;
+  }
+
+  .modal-container{
+    position: fixed;
+    top: 10px;
+    right: 15px;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 999;
+    padding: 5px;
+  }
+
+  input, button{
+    padding: 5px;
+  }
+
+  .read-container{
+    font-size: 20px;
+  }
+
