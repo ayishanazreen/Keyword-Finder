@@ -1,6 +1,6 @@
 <h1>Keyword Finder 🧐🔍</h1>
 
-A simple and efficient tool for finding specific keywords or phrases in a document or webpage, replacing the traditional Ctrl+F functionality. The Keyword Finder allows users to quickly search through content and highlights all occurrences of the given keyword or phrase.
+A simple and efficient tool for finding specific keywords or phrases in a document or webpage, replacing the Ctrl+F functionality. The Keyword Finder allows users to quickly search through content and highlights all occurrences of the given keyword or phrase.
 
 <h3>Features ⚡</h3>
 
